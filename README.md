@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nil0606" alt="nil0606" /></a> </p>
 
-- 🔭 I’m currently working at **Script All DNA Technologies**
-
-- 🌱 I’m currently learning **Cloud and Docker.**
-
 - 💬 Ask me about **Python, Django, Ruby, Rails, Data Structure, Algorithms, Computer Science.**
 
 - 📫 How to reach me **nilpatel0606gmail.com**
