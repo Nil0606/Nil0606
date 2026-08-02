@@ -73,8 +73,10 @@ I'm a software engineer from India who enjoys shipping full-stack products — f
 
 ---
 
-<details>
-  <summary>GitHub trophies</summary>
-  <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nil0606&theme=flat&column=7&margin-w=8" alt="GitHub trophies" /></a>
-</details>
+### GitHub trophies
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.benkou.dev/?username=nil0606&theme=flat&column=7&margin-w=8" alt="nil0606" />
+  </a>
+</p>
