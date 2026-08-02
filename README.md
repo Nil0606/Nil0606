@@ -9,7 +9,7 @@
 
 ### About me
 
-I'm a software engineer from India who enjoys shipping full-stack products — from Django and Rails backends to Next.js frontends. Lately I've been exploring AI tooling and building appointment/booking systems end to end.
+I'm a software engineer from India who enjoys shipping full-stack products from Django and Rails backends to Next.js frontends. Lately I've been exploring AI tooling and building appointment/booking systems end to end.
 
 - Currently working with **Python, Django, Ruby on Rails, TypeScript & Next.js**
 - Interested in **backend systems, booking platforms, and AI-assisted workflows**
