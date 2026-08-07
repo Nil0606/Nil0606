@@ -17,16 +17,6 @@ I'm a software engineer from India who enjoys shipping full-stack products from 
 
 ---
 
-### Featured projects
-
-| Project | Stack | What it does |
-| --- | --- | --- |
-| [Restaurant-Booking-System](https://github.com/Nil0606/Restaurant-Booking-System) | Python | Restaurant reservation / booking system |
-| [AI-LABS](https://github.com/Nil0606/AI-LABS) | Python | Experiments and labs around AI tooling |
-| [Bus-Ticket-Booking-System](https://github.com/Nil0606/Bus-Ticket-Booking-System) | Django · Python | Full web app for bus ticket booking |
-
----
-
 ### Tech I work with
 
 **Languages**  
